@@ -2,7 +2,6 @@
 __author__ = 'lpp'
 
 
-
 class Solution(object):
     def longestPalindrome(self, s):
         """
@@ -50,10 +49,29 @@ class Solution(object):
         # Manacher's Algorithm
         # time complexity O(n)
         # space complexity O(n)
-        
+        ss = '/'
+        for i in range(len(s)):
+            ss += '#'
+            ss += s[i]
+        ss += '#\\'
+        p = [0] * len(ss)
+        mx = 0
+        id = 0
+        for i in range(len(ss) - 1):
+            if mx > i:
+                p[i] = min(p[2 * id - i], mx - i)
+            else:
+                p[i] = 1
+            while ss[i + p[i]] == ss[i - p[i]]:
+                p[i] += 1
+            if (i + p[i]) > mx:
+                mx = i + p[i]
+                id = i
+        index = p.index(max(p))
+        return ss[index - p[index] + 1:index + p[index]].replace('#', '')
 
 
-s = 'ababacccccc'
+s = 'ababaccc'
 test = Solution()
-result = test.longestPalindrome(s)
+result = test.longestPalindrome2(s)
 print result
