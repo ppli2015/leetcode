@@ -21,7 +21,6 @@ class Solution(object):
         # return ''.join(reversed(s))
         return s[::-1]
 
-    
 test = Solution()
 r = test.reverseString2('abcde')
 print r
