@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8816ef8-0c21-4cb7-af28-087433fcd33f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/121 Best Time to Buy and Sell Stock.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/191 Number of 1 Bits.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/235 Lowest Common Ancestor of a Binary Search Tree.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/263 Ugly Number.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/70 Climbing Stairs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/107 Binary Tree Level Order Traversal 2.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/198 House Robber.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/21 Merge Two Sorted Lists.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/24 Swap Nodes in Pairs.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/342 Power of Four.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/345 Reverse Vowels of a String.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/121 Best Time to Buy and Sell Stock.py" afterPath="$PROJECT_DIR$/121 Best Time to Buy and Sell Stock.py" />
     </list>
     <ignored path="leetcode.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,25 +31,31 @@
     <SUITE FILE_PATH="coverage/leetcode$202_Happy_Number.coverage" NAME="202 Happy Number Coverage Results" MODIFIED="1473771987358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$3_Longest_Substring.coverage" NAME="3 Longest Substring Coverage Results" MODIFIED="1471938481331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$171_Excel_Sheet_Column_Number.coverage" NAME="171 Excel Sheet Column Number Coverage Results" MODIFIED="1472112505835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$198_House_Robber.coverage" NAME="198 House Robber Coverage Results" MODIFIED="1476086575430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$1_Two_Sum.coverage" NAME="1 Two Sum Coverage Results" MODIFIED="1471929595997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$2_Add_Two_Numbers.coverage" NAME="2 Add Two Numbers Coverage Results" MODIFIED="1471935587983" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$342_Power_of_Four.coverage" NAME="342 Power of Four Coverage Results" MODIFIED="1476077490948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$191_Number_of_1_Bits.coverage" NAME="191 Number of 1 Bits Coverage Results" MODIFIED="1473853468434" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$242_Valid_Anagram.coverage" NAME="242 Valid Anagram Coverage Results" MODIFIED="1472113614992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$383_Ransom_Note.coverage" NAME="383 Ransom Note Coverage Results" MODIFIED="1472111659940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$206_Reverse_Linked_List.coverage" NAME="206 Reverse Linked List Coverage Results" MODIFIED="1473765774543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$4_Median_of_Two_Sorted_Arrays.coverage" NAME="4 Median of Two Sorted Arrays Coverage Results" MODIFIED="1471951362324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$70_Climbing_Stairs.coverage" NAME="70 Climbing Stairs Coverage Results" MODIFIED="1474009324808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$21_Merge_Two_Sorted_Lists.coverage" NAME="21 Merge Two Sorted Lists Coverage Results" MODIFIED="1474165777155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$169_Majority_Element.coverage" NAME="169 Majority Element Coverage Results" MODIFIED="1472114620796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode$121_Best_Time_to_Buy_and_Sell_Stock.coverage" NAME="121 Best Time to Buy and Sell Stock Coverage Results" MODIFIED="1474021881545" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$121_Best_Time_to_Buy_and_Sell_Stock.coverage" NAME="121 Best Time to Buy and Sell Stock Coverage Results" MODIFIED="1474164738619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$283_Move_Zeroes.coverage" NAME="283 Move Zeroes Coverage Results" MODIFIED="1472092950472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$345_Reverse_Vowels_of_a_String.coverage" NAME="345 Reverse Vowels of a String Coverage Results" MODIFIED="1476081338658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$326_Power_of_Three.coverage" NAME="326 Power of Three Coverage Results" MODIFIED="1473770204784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$divided_by_6_and_8.coverage" NAME="divided by 6 and 8 Coverage Results" MODIFIED="1473753103780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$292_Nim_Game.coverage" NAME="292 Nim Game Coverage Results" MODIFIED="1472017654387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$5_Longest_Palindromic_Substring.coverage" NAME="5 Longest Palindromic Substring Coverage Results" MODIFIED="1472015187577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$344_Reverse_String.coverage" NAME="344 Reverse String Coverage Results" MODIFIED="1472015292800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$258_Add_Digits.coverage" NAME="258 Add Digits Coverage Results" MODIFIED="1472029787433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$107_Binary_Tree_Level_Order_Traversal_2.coverage" NAME="107 Binary Tree Level Order Traversal 2 Coverage Results" MODIFIED="1476103204017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$237_Delete_Node_in_a_Linked_List.coverage" NAME="237 Delete Node in a Linked List Coverage Results" MODIFIED="1472095118513" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode$1.coverage" NAME="1 Coverage Results" MODIFIED="1471922539723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode$24_Swap_Nodes_in_Pairs.coverage" NAME="24 Swap Nodes in Pairs Coverage Results" MODIFIED="1476079271430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -65,51 +73,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="191 Number of 1 Bits.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/191 Number of 1 Bits.py">
+      <file leaf-file-name="107 Binary Tree Level Order Traversal 2.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/107 Binary Tree Level Order Traversal 2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="263 Ugly Number.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/263 Ugly Number.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="21" column="23" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="70 Climbing Stairs.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/70 Climbing Stairs.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="235 Lowest Common Ancestor of a Binary Search Tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/235 Lowest Common Ancestor of a Binary Search Tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="121 Best Time to Buy and Sell Stock.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/121 Best Time to Buy and Sell Stock.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7152104">
-              <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.19927536">
+              <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -169,6 +137,12 @@
         <option value="$PROJECT_DIR$/70 Climbing Stairs.py" />
         <option value="$PROJECT_DIR$/235 Lowest Common Ancestor of a Binary Search Tree.py" />
         <option value="$PROJECT_DIR$/121 Best Time to Buy and Sell Stock.py" />
+        <option value="$PROJECT_DIR$/21 Merge Two Sorted Lists.py" />
+        <option value="$PROJECT_DIR$/342 Power of Four.py" />
+        <option value="$PROJECT_DIR$/24 Swap Nodes in Pairs.py" />
+        <option value="$PROJECT_DIR$/345 Reverse Vowels of a String.py" />
+        <option value="$PROJECT_DIR$/198 House Robber.py" />
+        <option value="$PROJECT_DIR$/107 Binary Tree Level Order Traversal 2.py" />
       </list>
     </option>
   </component>
@@ -178,10 +152,9 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="755" />
-    <option name="y" value="7" />
-    <option name="width" value="1125" />
-    <option name="height" value="1040" />
+    <option name="x" value="740" />
+    <option name="width" value="1187" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -249,8 +222,8 @@
       </console-settings>
     </option>
   </component>
-  <component name="RunManager" selected="Python.121 Best Time to Buy and Sell Stock">
-    <configuration default="false" name="83 Remove Duplicatet from Sorted List" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.107 Binary Tree Level Order Traversal 2">
+    <configuration default="false" name="342 Power of Four" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -263,12 +236,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/83 Remove Duplicatet from Sorted List.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/342 Power of Four.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="191 Number of 1 Bits" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="24 Swap Nodes in Pairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -281,12 +254,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/191 Number of 1 Bits.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24 Swap Nodes in Pairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="263 Ugly Number" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="345 Reverse Vowels of a String" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -299,12 +272,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/263 Ugly Number.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/345 Reverse Vowels of a String.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="70 Climbing Stairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="198 House Robber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -317,12 +290,12 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/70 Climbing Stairs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/198 House Robber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="121 Best Time to Buy and Sell Stock" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="107 Binary Tree Level Order Traversal 2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -335,7 +308,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="leetcode" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/121 Best Time to Buy and Sell Stock.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/107 Binary Tree Level Order Traversal 2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -553,19 +526,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.5 Longest Palindromic Substring" />
-      <item index="1" class="java.lang.String" itemvalue="Python.83 Remove Duplicatet from Sorted List" />
-      <item index="2" class="java.lang.String" itemvalue="Python.191 Number of 1 Bits" />
-      <item index="3" class="java.lang.String" itemvalue="Python.263 Ugly Number" />
-      <item index="4" class="java.lang.String" itemvalue="Python.70 Climbing Stairs" />
-      <item index="5" class="java.lang.String" itemvalue="Python.121 Best Time to Buy and Sell Stock" />
+      <item index="1" class="java.lang.String" itemvalue="Python.342 Power of Four" />
+      <item index="2" class="java.lang.String" itemvalue="Python.24 Swap Nodes in Pairs" />
+      <item index="3" class="java.lang.String" itemvalue="Python.345 Reverse Vowels of a String" />
+      <item index="4" class="java.lang.String" itemvalue="Python.198 House Robber" />
+      <item index="5" class="java.lang.String" itemvalue="Python.107 Binary Tree Level Order Traversal 2" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.121 Best Time to Buy and Sell Stock" />
-        <item index="1" class="java.lang.String" itemvalue="Python.70 Climbing Stairs" />
-        <item index="2" class="java.lang.String" itemvalue="Python.263 Ugly Number" />
-        <item index="3" class="java.lang.String" itemvalue="Python.191 Number of 1 Bits" />
-        <item index="4" class="java.lang.String" itemvalue="Python.83 Remove Duplicatet from Sorted List" />
+        <item index="0" class="java.lang.String" itemvalue="Python.107 Binary Tree Level Order Traversal 2" />
+        <item index="1" class="java.lang.String" itemvalue="Python.198 House Robber" />
+        <item index="2" class="java.lang.String" itemvalue="Python.345 Reverse Vowels of a String" />
+        <item index="3" class="java.lang.String" itemvalue="Python.24 Swap Nodes in Pairs" />
+        <item index="4" class="java.lang.String" itemvalue="Python.342 Power of Four" />
       </list>
     </recent_temporary>
   </component>
@@ -592,16 +565,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="755" y="7" width="1125" height="1040" extended-state="0" />
-    <editor active="true" />
+    <frame x="740" y="0" width="1187" height="1047" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29014084" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26175687" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32957748" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28665933" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.30054644" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -629,19 +602,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/191 Number of 1 Bits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/13 Roman to Integer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -796,13 +761,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/237 Delete Node in a Linked List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/387 First Unique Character in a String.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.22006473">
@@ -908,45 +866,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/206 Reverse Linked List.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.83495146">
-          <caret line="45" column="20" selection-start-line="29" selection-start-column="0" selection-end-line="45" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/191 Number of 1 Bits.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/263 Ugly Number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="23" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/70 Climbing Stairs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/235 Lowest Common Ancestor of a Binary Search Tree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/.PyCharm50/system/python_stubs/-762174762/__builtin__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.30582523">
@@ -957,8 +876,99 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/121 Best Time to Buy and Sell Stock.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7152104">
-          <caret line="26" column="21" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.58885545">
+          <caret line="23" column="40" selection-start-line="23" selection-start-column="40" selection-end-line="23" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/70 Climbing Stairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79518074">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/263 Ugly Number.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5376506">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/191 Number of 1 Bits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5376506">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/235 Lowest Common Ancestor of a Binary Search Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7680723">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/237 Delete Node in a Linked List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7936747">
+          <caret line="31" column="18" selection-start-line="31" selection-start-column="18" selection-end-line="31" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/342 Power of Four.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5879699">
+          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/206 Reverse Linked List.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4631579">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="39" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/198 House Robber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5879699">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/345 Reverse Vowels of a String.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.63909775">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/24 Swap Nodes in Pairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6421053">
+          <caret line="28" column="36" selection-start-line="28" selection-start-column="36" selection-end-line="28" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/21 Merge Two Sorted Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.8887218">
+          <caret line="69" column="33" selection-start-line="47" selection-start-column="0" selection-end-line="69" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/107 Binary Tree Level Order Traversal 2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19927536">
+          <caret line="25" column="7" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
           <folding />
         </state>
       </provider>
